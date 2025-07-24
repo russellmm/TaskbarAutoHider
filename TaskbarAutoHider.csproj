@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+	<ApplicationIcon>taskbar_icon.ico</ApplicationIcon>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Product>Taskbar Auto-Hider</Product>
+    <Description>Automatically hide taskbar after idle time</Description>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  
+  <!-- COM Interop reference to Windows Script Host library -->
+  <ItemGroup>
+    <Reference Include="IWshRuntimeLibrary">
+      <HintPath>interop\IWshRuntimeLibrary.dll</HintPath>
+      <Private>true</Private> <!-- Ensures it copies to output folder -->
+    </Reference>
+
+  </ItemGroup>
+    <ItemGroup>
+    <EmbeddedResource Include="taskbar_icon.ico" />
+  </ItemGroup>
+
+  
+</Project>

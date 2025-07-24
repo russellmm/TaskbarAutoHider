@@ -1,0 +1,5 @@
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Release\net9.0-windows\publish\TaskbarAutoHider.exe
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Release\net9.0-windows\publish\TaskbarAutoHider.dll
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Release\net9.0-windows\publish\TaskbarAutoHider.deps.json
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Release\net9.0-windows\publish\TaskbarAutoHider.runtimeconfig.json
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Release\net9.0-windows\publish\TaskbarAutoHider.pdb

@@ -1,0 +1,5 @@
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Release\net8.0-windows\TaskbarAutoHider.csproj.AssemblyReference.cache
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Release\net8.0-windows\TaskbarAutoHider.GeneratedMSBuildEditorConfig.editorconfig
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Release\net8.0-windows\TaskbarAutoHider.AssemblyInfoInputs.cache
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Release\net8.0-windows\TaskbarAutoHider.AssemblyInfo.cs
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Release\net8.0-windows\TaskbarAutoHider.csproj.CoreCompileInputs.cache

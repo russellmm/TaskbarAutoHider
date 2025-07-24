@@ -1,0 +1,14 @@
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.GeneratedMSBuildEditorConfig.editorconfig
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.AssemblyInfoInputs.cache
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.AssemblyInfo.cs
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.csproj.CoreCompileInputs.cache
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Debug\net9.0-windows\TaskbarAutoHider.exe
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Debug\net9.0-windows\TaskbarAutoHider.deps.json
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Debug\net9.0-windows\TaskbarAutoHider.runtimeconfig.json
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Debug\net9.0-windows\TaskbarAutoHider.dll
+D:\hobbies\SourceCode\TaskbarAutoHider\bin\Debug\net9.0-windows\TaskbarAutoHider.pdb
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.dll
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\refint\TaskbarAutoHider.dll
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.pdb
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\TaskbarAutoHider.genruntimeconfig.cache
+D:\hobbies\SourceCode\TaskbarAutoHider\obj\Debug\net9.0-windows\ref\TaskbarAutoHider.dll
